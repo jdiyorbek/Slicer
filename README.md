@@ -1,9 +1,9 @@
-SLICER v1.0.0
+WORD-SLICER v1.0.0
 
 This npm can slice sentences
 
 |
-| const slicer = require("slicer")
+| const slicer = require("word-slicer")
 | 
 | const words = "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
 |

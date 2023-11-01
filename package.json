@@ -1,5 +1,5 @@
 {
-  "name": "slicer",
+  "name": "word-slicer",
   "version": "1.0.0",
   "description": "This npm can slice sentences",
   "main": "index.js",
